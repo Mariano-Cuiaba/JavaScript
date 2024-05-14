@@ -2,7 +2,7 @@
 const soma = (numero1, numero2) => numero1 + numero2;
 
 // Arrow function que subtrai dois números
-const subtracao =(numero1, numero 2) => numero1 - numero2;
+const subtracao =(numero1, numero2) => numero1 - numero2;
 
 // Arrow function que subtrai dois números
 const multiplicacao = (numero1, numero2) => numero1 * numero2;
